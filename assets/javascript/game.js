@@ -39,10 +39,10 @@ $(document).ready(function () {
         $("#winner-score").text(" Wins: " + wins);
         $("#losser-score").text(" Losses: " + losses);
         $("#total-score").text(" Score: " + currentScore);
-        crys1_val = Math.floor(Math.random() * 12) + 1;
-        crys2_val = Math.floor(Math.random() * 12) + 1;
-        crys3_val = Math.floor(Math.random() * 12) + 1;
-        crys4_val = Math.floor(Math.random() * 12) + 1;
+        crys1_val = Math.floor(Math.random() * 11) + 1;
+        crys2_val = Math.floor(Math.random() * 11) + 1;
+        crys3_val = Math.floor(Math.random() * 11) + 1;
+        crys4_val = Math.floor(Math.random() * 11) + 1;
 
     }
 });
