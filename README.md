@@ -20,6 +20,8 @@ Clone Crystal-Collector-Game to your local git repo like the following:
 git clone git@github.com:Keerthi-Mani/unit-4-game.git
 ```
 
+### Screenshot
+
 The Crystal-Collector-Game project and its files should now be in your project folder.
 
 ![image](https://user-images.githubusercontent.com/52920074/65917019-78a91780-e3a4-11e9-90da-d5397b21b81a.png)
