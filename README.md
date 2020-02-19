@@ -28,6 +28,16 @@ randomNumber = Math.floor(Math.random() * 101) + 19
 //19 to 120 has 101 numbers
 ```
 
+### Each Crystals Random Numbers
+
+```
+    // 1 to 12
+        crys1_val = Math.floor(Math.random() * 11) + 1;
+        crys2_val = Math.floor(Math.random() * 11) + 1;
+        crys3_val = Math.floor(Math.random() * 11) + 1;
+        crys4_val = Math.floor(Math.random() * 11) + 1;
+```
+
 ### Screenshot
 
 The Crystal-Collector-Game project and its files should now be in your project folder.
