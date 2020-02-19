@@ -29,3 +29,21 @@ The Crystal-Collector-Game project and its files should now be in your project f
 ### Github Deployed Link
 
 [Gem Collector Game](https://keerthi-mani.github.io/unit-4-game/)
+
+### Feedback and issues:
+
+I really appreciate your feedback. If you want to see some improvements in the app I'll be really grateful if you can drop me a message.
+
+Additionally, if you find any issue when running the app or any other other matter, please feel free to open an issue in this Github repo.
+
+Author - Keerthi
+
+### License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
+### Acknowledgement
+
+Joe Han, Joshua Appel, Erin Rizal, & Jonathan Ho - Rutgers BCS Instructor and TA's
+
+All of the Rutgers BCS Classmates that help make everyday an amazing experience.
