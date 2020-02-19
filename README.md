@@ -20,6 +20,14 @@ Clone Crystal-Collector-Game to your local git repo like the following:
 git clone git@github.com:Keerthi-Mani/unit-4-game.git
 ```
 
+### Computer Choose Random Number
+
+```
+randomNumber = Math.floor(Math.random() * 101) + 19
+
+//19 to 120 has 101 numbers
+```
+
 ### Screenshot
 
 The Crystal-Collector-Game project and its files should now be in your project folder.
