@@ -9,6 +9,7 @@ Crystal-Collector-Game is a Javascript app that uses the Math.floor(Math.random(
 1. Html
 2. JQuery
 3. CSS
+4. Reset CSS
 
 ## Local Installation
 
